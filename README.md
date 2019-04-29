@@ -14,5 +14,6 @@ Adding even more
 
 Decided to create another Branch here.
 With different options?
-master
-master
+
+Removed at end line expected
+
